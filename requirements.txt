@@ -20,7 +20,7 @@ pyparsing>=2.0.3
 python-dateutil==2.6.0
 pytz>=2016.2
 scandir==1.4
-scikit-learn>=0.18.1
+scikit-learn>=0.18.1,<=0.20.3
 scipy>=0.17.0
 simplegeneric==0.8.1
 six==1.10.0
