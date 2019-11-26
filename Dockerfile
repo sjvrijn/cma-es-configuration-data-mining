@@ -21,7 +21,7 @@ RUN chown -R main:main /home/main
 
 USER main
 WORKDIR /home/main/src
-RUN export PATH=~/.local/bin:$PATH
+ENV PATH "/home/main/.local/bin:${PATH}"
 
 # Install requirements for Python 2
 #COPY requirements.txt requirements.txt
