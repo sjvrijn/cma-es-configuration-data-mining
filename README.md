@@ -1,4 +1,5 @@
 [![Binder](http://mybinder.org/badge.svg)][1]
+[![Gitter](https://badges.gitter.im/pyModEA/configuring-cmaes.svg)](https://gitter.im/pyModEA/configuring-cmaes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Algorithm Configuration Data Mining for CMA Evolution Strategies
 
@@ -36,7 +37,7 @@ jupyter notebook
 
 ## Contact
 
-If there are any questions or issues, please open an issue here on Github.
+If there are any questions or issues, please come to the [Gitter chatroom](https://gitter.im/pyModEA/configuring-cmaes) or open an issue here on Github.
 
 
 ## Citation
