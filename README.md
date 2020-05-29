@@ -73,6 +73,11 @@ To cite the corresponding paper, you can use the following bibtex entry instead:
 }
 ```
 
+# References #
+ * [Evolving the Structure of Evolution Strategies. Sander van Rijn, Hao Wang, Matthijs van Leeuwen, Thomas Bäck. IEEE SSCI December 6-9 2016, Athens, Greece.](https://ieeexplore.ieee.org/document/7850138) -- Framework code available [here](https://github.com/sjvrijn/ModEA), experiments and analysis code available [here](https://github.com/sjvrijn/ConfiguringCMAES)
+ * [Algorithm Configuration Data Mining for CMA Evolution Strategies. Sander van Rijn, Hao Wang, Bas van Stein, Thomas Bäck. GECCO July 15-19 2017, Berlin, Germany.](https://dl.acm.org/citation.cfm?id=3071205)
+ * [Towards an Adaptive CMA-ES Configurator. Sander van Rijn, Carola Doerr, Thomas Bäck. PPSN XV September 8-12 2018, Coimbra, Portugal.](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_5)
+
 
 [1]: http://mybinder.org:/repo/energya/cma-es-configuration-data-mining
 [2]: https://dl.acm.org/citation.cfm?id=3071205
