@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "van Rijn"
+  given-names: "Sander"
+  affiliation: "Leiden University"
+  orcid: "https://orcid.org/0000-0001-6159-041X"
+title: "Github repository: CMA-ES Configuration Data Mining"
+url: "https://github.com/sjvrijn/cma-es-configuration-data-mining"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "van Rijn"
+    given-names: "Sander"
+    affiliation: "Leiden University"
+    orcid: "https://orcid.org/0000-0001-6159-041X"
+  - family-names: "Wang"
+    given-names: "Hao"
+    affiliation: "Leiden University"
+    orcid: "https://orcid.org/0000-0002-4933-5181"
+  - family-names: "van Stein"
+    given-names: "Bas"
+    affiliation: "Leiden University"
+    orcid: "https://orcid.org/0000-0002-0013-7969"
+  - family-names: "Bäck"
+    given-names: "Thomas"
+    affiliation: "Leiden University"
+    orcid: "https://orcid.org/0000-0001-6768-1478"
+  doi: "10.1145/3071178.3071205"
+  journal: "Proceedings of the Genetic and Evolutionary Computation Conference"
+  publisher: "ACM"
+  title: "Algorithm Configuration Data Mining for CMA Evolution Strategies"
+  start: 737
+  end: 744
+  pages: 8
+  year: 2017
+  url: "http://doi.acm.org/10.1145/3071178.3071205"
